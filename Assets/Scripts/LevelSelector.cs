@@ -7,15 +7,28 @@ using UnityEngine.SceneManagement;
 public class LevelSelector : MonoBehaviour
 {
     public static string selectedLevel;
-    public string level;
+    public int level;
     public Text levelText;
     void Start()
     {
-        levelText.text = level.ToString();
+        switch(level){
+            case 1:
+                levelText.text = "Capsula";
+                break;
+            case 2:
+                levelText.text = "Esfera";
+                break;
+            case 3:
+                levelText.text = "Cubo";
+                break;
+            case 4:
+                levelText.text = "Cilindro";
+                break;
+        }
     }
 
     public void OpenScene(){
-        selectedLevel = level;
-        SceneManager.LoadScene("ARScene");
+        selectedLevel = level.ToString();
+        SceneManager.LoadScene("ARScene"+selectedLevel);
     }
 }
