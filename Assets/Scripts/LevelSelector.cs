@@ -13,10 +13,10 @@ public class LevelSelector : MonoBehaviour
     {
         switch(level){
             case 1:
-                levelText.text = "Capsula";
+                levelText.text = "Dunas";
                 break;
             case 2:
-                levelText.text = "Esfera";
+                levelText.text = "Humedales";
                 break;
             case 3:
                 levelText.text = "Cubo";
