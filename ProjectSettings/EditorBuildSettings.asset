@@ -20,8 +20,17 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ARScene4.unity
     guid: 4647b603d9bc7bc498faa0120fd63db4
+  - enabled: 1
+    path: Assets/Scenes/ARScene5.unity
+    guid: 4e400934891e8ad4e8ed73754d8bf0b6
+  - enabled: 0
+    path: Assets/Scenes/ARScene6.unity
+    guid: 65b764f764f2d9b409e48334d3605bf0
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f96efa4b1e9ef0947a8190e7a8d28228, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: d486988e52d3dbc4881d0ec3445a2486, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: 6bbe82374182dbe45bd68edb4a705f65, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 53ea3dbb33f65aa4e82a2d03175fa999, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: e3d835f6fc14f114ea6359d5fdf4e1b6, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b060bc783dc7eed46aeab9789a05f7e2, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 76ebef714acba974f9d2796d788d184d, type: 2}

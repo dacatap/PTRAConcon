@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TextDumps_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 942dbc5bd232f2a4f824bf090aa3f474, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5288525824
+    m_Localized: "Conjunto de dunas ubicadas en una terraza marina 30 metros sobre
+      el nivel del mar, cuyo origen geol\xF3gico data del per\xEDodo cuaternario,
+      cuando la erosi\xF3n e\xF3lica model\xF3 la superficie rocosa del lugar. En
+      este sentido, un factor de particularidad de este campo dunar es que los arenales
+      no han sido alimentados desde las playas, a pesar de lo cual se han mantenido
+      estables.\r\n\r\nPresenta vegetaci\xF3n de matorral costero y arbustos ubicados
+      en los m\xE1rgenes del campo dunar y en las laderas que dan hacia la avenida
+      costanera. La diversidad biol\xF3gica de esta zona se complementa con la presencia
+      de variadas aves marinas, entre las que destacan el chorlo y los playeros,
+      adem\xE1s de lobos y ping\xFCinos de Humboldt. En el borde costero, se conservan
+      conchales de gran valor arqueol\xF3gico. \nDeclarado en 1993 como Santuario
+      de la Naturaleza por constituir una unidad paisaj\xEDstica de gran valor esc\xE9nico,
+      tur\xEDstico y cient\xEDfico."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387322511360
+    m_Localized: "El Humedal Parque Ecol\xF3gico La Isla es un espacio conformado
+      por un ecosistema \xFAnico que contribuye a albergar una gran biodiversidad
+      de plantas y aves, con un alto potencial e inter\xE9s educativo, tur\xEDstico
+      y cient\xEDfico. Este fue dise\xF1ado en un proyecto conjunto entre la Municipalidad
+      de Conc\xF3n y ENAP, en un espacio que contempla 13 hect\xE1reas.\r\n\r\nSe
+      pueden encontrar en \xE9l importantes colonias de gaviotas dominicanas, pel\xEDcanos,
+      gaviotas de Franklin, pollitos de mar, perritos y otras especies como plateros,
+      zorzales, loicas y pilpilenes. Entre las plantas m\xE1s comunes se encuentran
+      las totoras y el nen\xFAfar, que son hidr\xF3filas y soportan las fluctuaciones
+      de las aguas saladas y dulces."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 484491952128
+    m_Localized: "La municipalidad de la ciudad de Conc\xF3n, desde donde sus funcionarios
+      buscan dirigir la comuna hacia un desarrollo arm\xF3nico y sostenido. Es desde
+      este lugar donde nacen las iniciativas que buscan fortalecer el turismo y el
+      desarrollo de la comuna, sin dejar atr\xE1s su historia ni su cultura."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 548115349504
+    m_Localized: "Museo con la mayor concentraci\xF3n de recursos arqueol\xF3gicos
+      de la regi\xF3n, centrandose en la historia de la cultura Bato, tambi\xE9n
+      cuenta con exposiciones relativas a otras materias, tales como una exposici\xF3n
+      sobre la guerra civil de 1891 y una sala dedicada al cantautor Patricio Manns.\n\nComo
+      dato curioso, una parte considerable del material presentado en el museo no
+      es adquirido solo de excavaciones, sino que es donado por vecinos de la comunidad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 673969635328
+    m_Localized: "Ubicada en el borde costero entre Vi\xF1a del Mar y Conc\xF3n,
+      fue declarada Santuario de la Naturaleza en 1990 por constituir una zona de
+      gran valor geol\xF3gico, ecol\xF3gico y biol\xF3gico marino, que se ha conservado
+      en forma natural y libre de contaminaci\xF3n.\n\nEs un promontorio rocoso de
+      25 metros de altitud, la cual se interna hacia el mar formando un mirador natural
+      de gran compacidad en la cuenca visual, desde donde se puede observar el oceano
+      y la fauna marina que se acerca o descansa all\xED."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
