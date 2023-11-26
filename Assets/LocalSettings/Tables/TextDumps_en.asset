@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TextDumps_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 942dbc5bd232f2a4f824bf090aa3f474, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5288525824
+    m_Localized: "Set of dunes located 98 feet above sea level, whose chronological
+      origin dates from the quaternary, when the eolic erosion shaped the rocky surface
+      of the area. A particular fact of this set of dunes is that despite that the
+      sandy areas have not been sustained by the beaches, they\u2019ve remained stable.\r\n\r\nIt
+      features coastal shrub vegetation and bushes located on the edges of the dune
+      field and on the slopes facing towards the coastal avenue. The biological diversity
+      of the zone is complemented with the presence of a variety of seabirds, standing
+      out among them the rufous-chested plover and the sanderling, besides the sea
+      lions and the Humboldt penguins.\r\nOn the coastal edge are preserved sea shells
+      of great archaeological value.\r\nDeclared in 1993 as a Nature Sanctuary due
+      to constituting a landscape unity between scenic, touristic and scientific
+      value.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387322511360
+    m_Localized: "The wetland \u201CParque Ecol\xF3gico La Isla\u201D is a space
+      consisting of an unique ecosystem that contributes to the sheltering of a great
+      biodiversity of flora and birds, with great potential and interest from the
+      educative, touristic and scientific areas. It was designed as a conjoined effort
+      between the Conc\xF3n city hall and ENAP, in a space that encompasses 32 acres.\r\n\r\nIt
+      is home to significant colonies of kelp gulls, pelicans, Franklin's gulls,
+      Wilson's phalaropes, black-necked stilts and other species such as band-tailed
+      sierra finches, Magellan thrushes, long-tailed meadowlarks and american oystercatchers.
+      Among the more common vegetation there\u2019s cattails and water lilies, which
+      are hydrophilic and bear the fluctuation of saltwater and freshwater.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 548115349504
+    m_Localized: "Museum with the highest concentration of archaeological resources
+      in the region, with a main focus on the history of the Bato culture, which
+      dates between 800 BC to 800 AD. There\u2019s also exhibitions about other subjects
+      such as the civil war of 1891 and a room dedicated to the singer-songwriter,
+      Patricio Manns, known for songs such as Arriba en la Cordillera.\r\n\r\nAs
+      a fun fact, a considerable amount of the material gathered and exhibited in
+      the museum is not acquired just from archaeological excavations, but is donated
+      from neighbors of the comunity.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 484491952128
+    m_Localized: "The city hall of the city of Conc\xF3n, from where its functionaries
+      strive to lead the town towards harmonic and sustainable growth. It\u2019s
+      from this place where the initiatives to improve tourism and development of
+      the town are born, always trying to not abandon their history nor their culture.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 673969635328
+    m_Localized: "Located in the coastal edge between Vi\xF1a del Mar and Conc\xF3n,
+      it was declared as a Nature Sanctuary in 1990 due to being a zone of great
+      archaeological, ecological and biological value, which has been preserved in
+      a natural way, free of pollution.\r\n\r\nIt\u2019s a rocky promontory of 82
+      feet of altitude, which stretches out to sea, forming a natural lookout from
+      where one can see the ocean and the sea wildlife that approaches and rests
+      there.\r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
