@@ -7,6 +7,7 @@ public class ToggleMedia : MonoBehaviour
 {
     public GameObject Dump;
     public GameObject Media;
+    public GameObject background;
     public bool isShown;
     // Start is called before the first frame update
     void Start()
